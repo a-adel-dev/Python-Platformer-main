@@ -39,7 +39,7 @@ def draw(window, background, bg_image):
 def main(window):
     clock = pygame.time.Clock()
 
-    background, bg_image = get_background("Brown.png")
+    background, bg_image = get_background("Green.png")
 
     run = True
     while run:
